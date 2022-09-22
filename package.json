@@ -1,6 +1,10 @@
 {
   "name": "empl_manager_back_end",
+<<<<<<< HEAD
   "version": "1.0.2",
+=======
+  "version": "1.0.1",
+>>>>>>> master
   "description": "",
   "main": "index.js",
   "scripts": {
